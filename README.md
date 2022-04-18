@@ -2,7 +2,6 @@
 DiZyme: an open-access expandable resource for quantitative prediction of nanozyme catalytic activity <br>
 Web-resource https://dizyme.net/
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 Nanozymes are defined as “nanomaterials with enzyme-like characteristics”. Among the currently existing nanozymes, the most common are nanozymes with peroxidaseand oxidase activities. Other, more complex hydrolase, catalase,  phosphatase,  laccase,  and superoxide dismutase  activities start to appear but are much less presented in the literature.
         <div>&nbsp;</div>
 Due to the high stability, long storage time and stability under various conditions nanozymes have been extensively exploited in cancer theranostics, environmental protection, cytoprotection, biosensing, and other applications, and of major attention is the ability to regulate the catalytic activity of nanomaterials by changing its composition, shape, size, crystal structure, as well as surface chemistry.
